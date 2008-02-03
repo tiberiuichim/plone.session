@@ -1,6 +1,14 @@
 Changelog
 ---------
 
+Version 2.0  - UNRELEASED
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Update default (hash) session source to use plone.keyring to manage
+  the secrets.
+  [wichert]
+
+
 Version 1.2  - UNRELEASED
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
